@@ -1,4 +1,4 @@
-# MNIST [RU]
+# Классификация изображений из датасета MNIST с помощью полносвязной нейронной сети и свёрточной нейронной сети [RU]
 #
 # Описание проекта
 Этот проект представляет собой пример реализации нейронных сетей для классификации изображений с использованием библиотеки PyTorch. Проект включает две реализации моделей: полносвязную нейронную сеть и сверточную нейронную сеть. Каждая модель обучается на наборе данных MNIST для распознавания рукописных цифр.
@@ -30,7 +30,7 @@ seaborn (для улучшения визуализации данных)
 #
 #
 #
-# MNIST [ENG]
+# Classification of images from Dataset MNIST by fully-connected neural network and convolutional neural network [ENG]
 # Project Description
 This project is an example implementation of neural networks for image classification using the PyTorch library. The project includes two model implementations: a fully connected neural network and a convolutional neural network. Each model is trained on the MNIST dataset for handwritten digit recognition.
 
